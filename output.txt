@@ -1,0 +1,3 @@
+We_are_the_team 	16	Milan	Politecnico di Milano	Hari Viorica, Paval Judit, Mórríghan Amar
+master 	16	Chicago	Princeton University	Alwyn Vojtech, Christian Gervaise, Ivayla Oddbjǫrg, Leyla Anielka
+Е1 	16	Paris	ENSPM — École Nationale Supérieure du Pétrole et des Moteurs	Aca Giselle, Severianus Azarel, Bhavana Andrey, Esmeralda Kristiane

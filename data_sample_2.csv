@@ -1,0 +1,45 @@
+team,last_name,first_name,section,date_of_birth,city,university,course,major,total_points,status
+4 Candies [192620],Zuzanna,Tamara,newcomers,11.06.1998,London,UiS — Universitetet i Stavanger,2 course,Economics,9,
+4 Candies [192620],Matthaios,Zikomo,newcomers,12.08.1993,London,UiS — Universitetet i Stavanger,2 course,Sociology,9,
+4 Candies [192620],Dexter,Nicol,newcomers,29.10.1981,London,UiS — Universitetet i Stavanger,3 course,Management,9,
+4 Candies [192620],Zhivko,İrem,newcomers,30.07.1997,London,UiS — Universitetet i Stavanger,3 course,International Relations,9,
+4Clock [196433],Carbry,Neela,experienced,03.09.1997,London,UiB — Universitetet i Bergen,4 course,Economics,15,HQ
+4Clock [196433],Tonatiuh,Luiza,experienced,11.12.1994,London,UiB — Universitetet i Bergen,4 course,Chemistry,15,HQ
+4Clock [196433],Domagoj,Zlatko,experienced,22.07.1996,London,UiB — Universitetet i Bergen,5 course,IT,15,HQ
+4Clock [196433],Hildiberhtaz,Siva ,experienced,24.12.1985,London,UiB — Universitetet i Bergen,5 course,Others,15,HQ
+Е1 [200427],Aca,Giselle,newcomers,03.08.1997,Paris,ENSPM — École Nationale Supérieure du Pétrole et des Moteurs,3 course,Others,16,HQ
+Е1 [200427],Severianus,Azarel,newcomers,13.07.1995,Paris,ENSPM — École Nationale Supérieure du Pétrole et des Moteurs,Recent Graduate,Management,16,HQ
+Е1 [200427],Bhavana,Andrey,newcomers,31.05.1999,Paris,ENSPM — École Nationale Supérieure du Pétrole et des Moteurs,Recent Graduate,Oil&gas,16,HQ
+Е1 [200427],Esmeralda,Kristiane,newcomers,21.10.1996,Paris,ENSPM — École Nationale Supérieure du Pétrole et des Moteurs,2 course,Oil&gas,16,HQ
+We_are_the_team [196272],Hari,Viorica,newcomers,07.08.2000,Milan,Politecnico di Milano,2 course,International Relations,16,HQ
+We_are_the_team [196272],Paval,Judit,newcomers,09.03.2000,Milan,Politecnico di Milano,3 course,International Relations,16,HQ
+We_are_the_team [196272],Mórríghan,Amar,newcomers,10.01.2000,Milan,Politecnico di Milano,2 course,Finances,16,HQ
+A-team [196259],Mariyan,Lia,newcomers,09.10.1999,Tokyo,The University of Tokyo,2 course,Finances,11,
+A-team [196259],Chidubem,Sevinç,newcomers,21.03.1997,Tokyo,The University of Tokyo,3 course,Others,11,
+A-team [196259],Deodato,Dölf,newcomers,23.07.1994,Tokyo,The University of Tokyo,3 course,Energy,11,
+A-team [196259],Chiranjivi,Wasswa,newcomers,26.10.2001,Tokyo,The University of Tokyo,4 course,Mining,11,
+DreamTeam [192198],Thancrat,Ninhursag,newcomers,11.06.1999,Moscow,MSU — Moscow State University,4 course,Management,11,
+DreamTeam [192198],Liis,Ithamar,newcomers,12.08.1995,Moscow,MSU — Moscow State University,5 course,IT,11,
+DreamTeam [192198],Fareeha,Ceolmund,newcomers,29.10.1981,Moscow,MSU — Moscow State University,5 course,IT,11,
+DreamTeam [192198],Jaxxon,Jónás ,newcomers,30.07.1997,Moscow,MSU — Moscow State University,3 course,International Relations,11,
+Look [193525],León,Thea ,experienced,03.09.1997,Moscow,MSU — Moscow State University,Recent Graduate,Finances,16,HQ
+Look [193525],Popov,Ivan,experienced,11.12.1994,Moscow,MSU — Moscow State University,Recent Graduate,Sociology,16,HQ
+Look [193525],Rowland,Martina,experienced,22.07.1996,Saint Petersburg,MSU — Moscow State University,2 course,Economics,16,HQ
+Look [193525],Gisela,Miroslava,experienced,24.12.1985,Chicago,Princeton University,2 course,Energy,16,HQ
+master [205122],Alwyn,Vojtech,newcomers,03.08.1997,Chicago,Princeton University,3 course,Disign,16,HQ
+master [205122],Gervaise,Christian ,newcomers,13.07.1995,Chicago,Princeton University,2 course,Others,16,HQ
+master [205122],Oddbjǫrg,Ivayla ,newcomers,31.05.1999,Chicago,Princeton University,2 course,Oil&gas,16,HQ
+master [205122],Anielka,Leyla ,newcomers,31.12.1998,Chicago,Princeton University,3 course,Economics,16,HQ
+Nova [200338],Ivanova,Julia,newcomers,04.03.1996,New York,Princeton University,3 course,Oil&gas,10,
+Nova [200338],Grigorev,Igor,newcomers,05.12.2002,New York,Princeton University,4 course,Maths,10,
+Nova [200338],Vayu,Nuno,newcomers,10.08.1998,New York,Princeton University,4 course,Chemistry,10,
+Nova [200338],Bertille,Aimilios,newcomers,23.08.1997,New York,Princeton University,5 course,Physics,10,
+Nova [200338],Peyton,Bóthildr,newcomers,05.04.2002,New York,Princeton University,5 course,Chemistry,10,
+Orion [198000],Clovis,Erik,experienced,23.01.2003,Novosibirsk,MSU — Moscow State University,3 course,Oil&gas,17,HQ
+Orion [198000],Mille,Simone,experienced,28.06.2001,Novosibirsk,MSU — Moscow State University,Recent Graduate,Others,17,HQ
+Orion [198000],Mphatso,Pinchas,experienced,29.07.2002,Novosibirsk,MSU — Moscow State University,Recent Graduate,Physics,17,HQ
+Orion [198000],Viktor,Michela,experienced,30.09.1996,Novosibirsk,MSU — Moscow State University,2 course,Finances,17,HQ
+Chili [211175],Anisim,Aruna ,experienced,08.12.1998,Kazan,MSU — Moscow State University,2 course,Economics,16,HQ
+Chili [211175],Eira,Alexander,experienced,17.02.1996,Kazan,MSU — Moscow State University,3 course,Oil&gas,16,HQ
+Chili [211175],Tomas,Emiliya,experienced,28.11.1997,Kazan,MSU — Moscow State University,4 course,Oil&gas,16,HQ
+Chili [211175],Thema,Teddie,experienced,30.04.1998,Kazan,MSU — Moscow State University,5 course,Chemistry,16,HQ
